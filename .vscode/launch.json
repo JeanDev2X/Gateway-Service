@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsvcGatewayServerApplication<msvc-gateway-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.andres.springcloud.app.gateway.msvc_gateway_server.MsvcGatewayServerApplication",
+            "projectName": "msvc-gateway-server",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
